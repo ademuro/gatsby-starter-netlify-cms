@@ -9,5 +9,3 @@ tags:
   - ''
 ---
 ![asd](/img/netlify-cms-screenshot.png)
-
-here here
